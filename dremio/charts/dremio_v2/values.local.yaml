@@ -277,7 +277,7 @@ zookeeper:
   # CPU allocated to each zookeeper, expressed in CPU cores.
   cpu: 0.5
   memory: 1024
-  count: 3
+  count: 2
 
   volumeSize: 10Gi
 
